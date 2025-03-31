@@ -1,5 +1,6 @@
 .container__menu-title {
     color: white;
+    width: 100%;
 }
 
 .container__menu-title > h1 {
@@ -10,6 +11,7 @@
     font-family: 'Segoe UI';
     display: flex;
     justify-content: center;
+    text-align: center;
 }
 
 .container__menu-title > hr {

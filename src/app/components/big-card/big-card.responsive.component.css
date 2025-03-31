@@ -1,0 +1,8 @@
+@media screen and (max-width:1200px) {
+    .big-card__title > h2 {
+        font-size: 20px;
+    }
+    .big-card__photo {
+        text-align: center;
+    }
+}
